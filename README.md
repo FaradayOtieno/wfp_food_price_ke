@@ -1,4 +1,5 @@
-# Staple Food Price Trends in Kenya: Inflation, Volatility, Seasonality & Forecasting
+# Staple Food Price Trends in Kenya: Inflation, Volatility, Seasonality and Predictive Forecasts
+
 
 This project analyzes WFP food price data for Kenya using **Python** (data cleaning, time-series modeling) and **Power BI** (interactive visualization).  
 It explores **inflation pressures, price volatility, seasonal patterns**, and **predictive forecasts** for staple foods.

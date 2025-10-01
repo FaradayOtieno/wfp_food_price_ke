@@ -1,0 +1,515 @@
+commodity,month_num,avg_price
+Bananas,1,13.81668939
+Bananas,2,15.63895238
+Bananas,3,15.48778333
+Bananas,4,13.92761111
+Bananas,5,15.21188889
+Bananas,6,15.21111111
+Bananas,7,14.5
+Bananas,8,11.82555556
+Bananas,9,12.0975
+Bananas,10,13.74283333
+Bananas,11,13.33652778
+Bananas,12,14.69444444
+Beans,1,61.16092857
+Beans,2,57.26661111
+Beans,3,60.33544444
+Beans,4,66.37861111
+Beans,5,64.0277381
+Beans,6,63.12544444
+Beans,7,58.34059524
+Beans,8,56.09929487
+Beans,9,58.75142222
+Beans,10,59.30214286
+Beans,11,57.30532051
+Beans,12,60.86815385
+Beans (Dolichos),1,10943.74
+Beans (Dolichos),2,10566.048
+Beans (Dolichos),3,11698.6125
+Beans (Dolichos),4,10756.7
+Beans (Dolichos),5,10238.76563
+Beans (Dolichos),6,8806.471429
+Beans (Dolichos),7,10458.36458
+Beans (Dolichos),8,10780.02
+Beans (Dolichos),9,11357.8125
+Beans (Dolichos),10,11085.1375
+Beans (Dolichos),11,10720.75
+Beans (Dolichos),12,12508.3
+Beans (Dry),1,2666.088206
+Beans (Dry),2,2887.626774
+Beans (Dry),3,2985.664255
+Beans (Dry),4,3614.992195
+Beans (Dry),5,3397.514719
+Beans (Dry),6,3178.936174
+Beans (Dry),7,3198.875094
+Beans (Dry),8,3198.144699
+Beans (Dry),9,3277.384675
+Beans (Dry),10,3068.784785
+Beans (Dry),11,3286.77919
+Beans (Dry),12,2995.826821
+Beans (Kidney),1,6141.166667
+Beans (Kidney),2,8502.655
+Beans (Kidney),3,7367.375
+Beans (Kidney),4,7763.333333
+Beans (Kidney),5,7773.75
+Beans (Kidney),6,6172.5
+Beans (Kidney),7,6750
+Beans (Kidney),9,7200
+Beans (Kidney),10,7267
+Beans (Kidney),11,7313.916667
+Beans (Mung),1,9000
+Beans (Mung),2,10800
+Beans (Mung),3,9600
+Beans (Mung),4,9534
+Beans (Mung),5,10899
+Beans (Mung),6,9218
+Beans (Mung),7,11048.75
+Beans (Mung),9,10743
+Beans (Mung),10,10416
+Beans (Mung),11,10731.125
+Beans (Rosecoco),1,9267.083333
+Beans (Rosecoco),2,10202.125
+Beans (Rosecoco),3,10782.97514
+Beans (Rosecoco),4,10040.71367
+Beans (Rosecoco),5,12186.65667
+Beans (Rosecoco),6,10695.09524
+Beans (Rosecoco),7,8909.214286
+Beans (Rosecoco),8,9409.34
+Beans (Rosecoco),9,11272.125
+Beans (Rosecoco),10,10419.55833
+Beans (Rosecoco),11,7812
+Beans (Rosecoco),12,10155.44444
+Beans (Yellow),1,10592.87292
+Beans (Yellow),2,10755.19167
+Beans (Yellow),3,11285.39219
+Beans (Yellow),4,10782.42948
+Beans (Yellow),5,11598.76459
+Beans (Yellow),6,12257.27597
+Beans (Yellow),7,11935.43611
+Beans (Yellow),8,11729.55833
+Beans (Yellow),9,11741.32477
+Beans (Yellow),10,10912.8625
+Beans (Yellow),11,11032.06771
+Beans (Yellow),12,11131.18333
+Bread,1,41.85714286
+Bread,2,40.93909091
+Bread,3,41.75
+Bread,4,43.66666667
+Bread,5,41.66666667
+Bread,6,39.32333333
+Bread,7,41.91666667
+Bread,8,41.88888889
+Bread,9,41.11111111
+Bread,10,40.75
+Bread,11,41.8
+Bread,12,40.4
+Cabbage,1,2772.062667
+Cabbage,2,3133.338083
+Cabbage,3,3084.645729
+Cabbage,4,3108.312563
+Cabbage,5,2986.796591
+Cabbage,6,3311.575
+Cabbage,7,3664.305556
+Cabbage,8,3589.7165
+Cabbage,9,3325.524861
+Cabbage,10,3192.083409
+Cabbage,11,3144.203333
+Cabbage,12,2859.246032
+Cooking Fat,1,224.63
+Cooking Fat,2,203.3575
+Cooking Fat,3,155.9733333
+Cooking Fat,4,172.1955556
+Cooking Fat,5,165.3333333
+Cooking Fat,6,219.65
+Cooking Fat,7,199.9042857
+Cooking Fat,8,144.905
+Cooking Fat,9,194.6855556
+Cooking Fat,10,185.85
+Cooking Fat,11,203.5833333
+Cooking Fat,12,200
+Cowpea Leaves,1,48.5
+Cowpea Leaves,2,42.33333333
+Cowpea Leaves,3,32.16666667
+Cowpea Leaves,4,30
+Cowpea Leaves,5,25.21428571
+Cowpea Leaves,6,17
+Cowpea Leaves,7,35.75
+Cowpea Leaves,8,30
+Cowpeas,1,9459.571429
+Cowpeas,2,8734.909667
+Cowpeas,3,8042.52619
+Cowpeas,4,8701.547917
+Cowpeas,5,9109.666667
+Cowpeas,6,8349.833333
+Cowpeas,7,8250.4375
+Cowpeas,8,7007.00625
+Cowpeas,9,7196.866667
+Cowpeas,10,9022.8
+Cowpeas,11,10198.625
+Cowpeas,12,9051.5125
+"Fish (Omena, Dry)",1,160
+"Fish (Omena, Dry)",2,154
+"Fish (Omena, Dry)",3,140.5
+"Fish (Omena, Dry)",5,164.75
+"Fish (Omena, Dry)",6,130
+"Fish (Omena, Dry)",7,144
+"Fish (Omena, Dry)",8,133
+Fuel (Diesel),1,89.4975
+Fuel (Diesel),2,86.165
+Fuel (Diesel),3,97.34333333
+Fuel (Diesel),4,89.06666667
+Fuel (Diesel),5,90.6
+Fuel (Diesel),6,104.16
+Fuel (Diesel),7,99.09
+Fuel (Diesel),8,91.4
+Fuel (Diesel),9,94.52
+Fuel (Diesel),10,101.96
+Fuel (Diesel),11,95.445
+Fuel (Diesel),12,94.9425
+Fuel (Kerosene),1,81.64
+Fuel (Kerosene),2,61.18666667
+Fuel (Kerosene),3,65.62666667
+Fuel (Kerosene),4,66.965
+Fuel (Kerosene),5,66.2975
+Fuel (Kerosene),6,68.57
+Fuel (Kerosene),7,77.595
+Fuel (Kerosene),8,78.862
+Fuel (Kerosene),9,86.4275
+Fuel (Kerosene),10,77.4975
+Fuel (Kerosene),11,92.68333333
+Fuel (Kerosene),12,84.11333333
+Fuel (Petrol-Gasoline),1,96.425
+Fuel (Petrol-Gasoline),2,100.09
+Fuel (Petrol-Gasoline),3,100.6825
+Fuel (Petrol-Gasoline),4,94.77
+Fuel (Petrol-Gasoline),5,95.0225
+Fuel (Petrol-Gasoline),6,99.724
+Fuel (Petrol-Gasoline),7,102.86
+Fuel (Petrol-Gasoline),8,107.1825
+Fuel (Petrol-Gasoline),9,111.065
+Fuel (Petrol-Gasoline),10,105.6525
+Fuel (Petrol-Gasoline),11,106.525
+Fuel (Petrol-Gasoline),12,103.87
+Kale,1,1376.558333
+Kale,2,1443.230089
+Kale,3,1435.277917
+Kale,4,1490.106285
+Kale,5,1515.035704
+Kale,6,1625.035714
+Kale,7,1405.702381
+Kale,8,1347.242
+Kale,9,1293.673333
+Kale,10,1480.732143
+Kale,11,1722.847361
+Kale,12,1148.116071
+Maize,1,33.35804444
+Maize,2,33.9592377
+Maize,3,34.1613625
+Maize,4,33.74975641
+Maize,5,35.38367593
+Maize,6,35.49591626
+Maize,7,35.40741875
+Maize,8,31.80499323
+Maize,9,29.49717507
+Maize,10,31.77684532
+Maize,11,31.36589815
+Maize,12,31.07250148
+Maize (White),1,1031.735447
+Maize (White),2,1090.283325
+Maize (White),3,1310.843396
+Maize (White),4,1063.263917
+Maize (White),5,1128.298575
+Maize (White),6,1080.610937
+Maize (White),7,1184.948716
+Maize (White),8,1147.227898
+Maize (White),9,1047.088116
+Maize (White),10,1137.4299
+Maize (White),11,1038.97519
+Maize (White),12,943.5576989
+"Maize (White, Dry)",1,4047.329714
+"Maize (White, Dry)",2,3829.137143
+"Maize (White, Dry)",3,3986.791667
+"Maize (White, Dry)",4,3920.247143
+"Maize (White, Dry)",5,4109.986726
+"Maize (White, Dry)",6,4594.622727
+"Maize (White, Dry)",7,4844.528896
+"Maize (White, Dry)",8,4213.95619
+"Maize (White, Dry)",9,4288.3425
+"Maize (White, Dry)",10,4878.583889
+"Maize (White, Dry)",11,4336.678571
+"Maize (White, Dry)",12,4198.2625
+Maize Flour,1,85.18574405
+Maize Flour,2,84.61058384
+Maize Flour,3,86.68152857
+Maize Flour,4,89.21191071
+Maize Flour,5,88.95493056
+Maize Flour,6,88.42590686
+Maize Flour,7,87.10998718
+Maize Flour,8,68.72362963
+Maize Flour,9,71.2179902
+Maize Flour,10,81.14213889
+Maize Flour,11,93.76299107
+Maize Flour,12,84.86958333
+Meat (Beef),1,546.5587
+Meat (Beef),2,559.1253333
+Meat (Beef),3,399.5333333
+Meat (Beef),4,557.5710417
+Meat (Beef),5,541.9274074
+Meat (Beef),6,557.0454545
+Meat (Beef),7,527.037037
+Meat (Beef),8,494.1666667
+Meat (Beef),9,568.784375
+Meat (Beef),10,523.2877273
+Meat (Beef),11,576.1698519
+Meat (Beef),12,590.9255556
+Meat (Camel),1,500
+Meat (Camel),2,520.2808571
+Meat (Camel),3,521.9096429
+Meat (Camel),4,548.9188889
+Meat (Camel),5,533.4125
+Meat (Camel),6,540.8468889
+Meat (Camel),7,508.0308333
+Meat (Camel),8,533.556
+Meat (Camel),9,511.52875
+Meat (Camel),10,565.0011111
+Meat (Camel),11,525.4534921
+Meat (Camel),12,563.3188889
+Meat (Goat),1,605.2443333
+Meat (Goat),2,580.6261667
+Meat (Goat),3,589.5835
+Meat (Goat),4,599.0994444
+Meat (Goat),5,610.7638889
+Meat (Goat),6,583.31
+Meat (Goat),7,591.1491667
+Meat (Goat),8,566.3166667
+Meat (Goat),9,591.8208333
+Meat (Goat),10,626.8373333
+Meat (Goat),11,630.3520556
+Meat (Goat),12,621.5719444
+"Milk (Camel, Fresh)",1,100
+"Milk (Camel, Fresh)",2,123.7033333
+"Milk (Camel, Fresh)",3,164.8988889
+"Milk (Camel, Fresh)",4,137.5
+"Milk (Camel, Fresh)",5,133.75
+"Milk (Camel, Fresh)",6,155
+"Milk (Camel, Fresh)",7,60
+"Milk (Camel, Fresh)",8,144.945
+"Milk (Camel, Fresh)",9,160.2783333
+"Milk (Camel, Fresh)",10,140
+"Milk (Camel, Fresh)",11,162.9166667
+"Milk (Camel, Fresh)",12,161.6666667
+"Milk (Cow, Fresh)",1,136.47
+"Milk (Cow, Fresh)",2,129.1666667
+"Milk (Cow, Fresh)",4,81.42857143
+"Milk (Cow, Fresh)",8,100
+"Milk (Cow, Pasteurized)",1,36.81444444
+"Milk (Cow, Pasteurized)",2,34
+"Milk (Cow, Pasteurized)",3,33.83333333
+"Milk (Cow, Pasteurized)",4,39.6
+"Milk (Cow, Pasteurized)",5,41.3
+"Milk (Cow, Pasteurized)",6,35.60272727
+"Milk (Cow, Pasteurized)",7,39.8
+"Milk (Cow, Pasteurized)",8,44.375
+"Milk (Cow, Pasteurized)",9,37.63333333
+"Milk (Cow, Pasteurized)",10,40.38272727
+"Milk (Cow, Pasteurized)",11,39.92555556
+"Milk (Cow, Pasteurized)",12,39.78888889
+Milk (Uht),1,70.0795303
+Milk (Uht),2,72.17183333
+Milk (Uht),3,73.28605801
+Milk (Uht),4,72.26940351
+Milk (Uht),5,77.23072222
+Milk (Uht),6,76.61738095
+Milk (Uht),7,71.06733333
+Milk (Uht),8,54.77372807
+Milk (Uht),9,73.97
+Milk (Uht),10,74.68437255
+Milk (Uht),11,75.48954545
+Milk (Uht),12,75.15788889
+Millet (Finger),1,6850.25
+Millet (Finger),2,7153.25
+Millet (Finger),3,6098.833333
+Millet (Finger),5,6733.5
+Millet (Finger),6,9111.2
+Millet (Finger),7,6600
+Millet (Finger),8,8573.4
+Millet (Finger),9,8096
+Millet (Finger),10,7832.75
+Millet (Finger),11,8490.107143
+Oil (Vegetable),1,210.881131
+Oil (Vegetable),2,225.7624385
+Oil (Vegetable),3,201.7775543
+Oil (Vegetable),4,195.8766603
+Oil (Vegetable),5,196.088244
+Oil (Vegetable),6,205.4521234
+Oil (Vegetable),7,194.3767949
+Oil (Vegetable),8,198.7863951
+Oil (Vegetable),9,181.52875
+Oil (Vegetable),10,198.8863661
+Oil (Vegetable),11,209.3123611
+Oil (Vegetable),12,197.0366745
+Onions (Dry),1,1009.112083
+Onions (Dry),2,1008.058267
+Onions (Dry),3,1025.428333
+Onions (Dry),4,1184.281375
+Onions (Dry),5,1219.958715
+Onions (Dry),6,1255.535714
+Onions (Dry),7,934.85
+Onions (Dry),8,910.71
+Onions (Dry),9,1052.52225
+Onions (Dry),10,1044.6275
+Onions (Dry),11,763.7403704
+Onions (Dry),12,1121.153095
+Onions (Red),8,57
+Potatoes (Irish),1,1300.523233
+Potatoes (Irish),2,1289.631646
+Potatoes (Irish),3,1503.89825
+Potatoes (Irish),4,1791.131026
+Potatoes (Irish),5,1779.304255
+Potatoes (Irish),6,1553.67256
+Potatoes (Irish),7,1271.128731
+Potatoes (Irish),8,1309.323741
+Potatoes (Irish),9,1568.122637
+Potatoes (Irish),10,1640.909571
+Potatoes (Irish),11,1572.04584
+Potatoes (Irish),12,1598.802838
+"Potatoes (Irish, Red)",1,2272.354167
+"Potatoes (Irish, Red)",2,2508.222
+"Potatoes (Irish, Red)",3,2498.270833
+"Potatoes (Irish, Red)",4,3145.723333
+"Potatoes (Irish, Red)",5,3677.221667
+"Potatoes (Irish, Red)",6,2753.577778
+"Potatoes (Irish, Red)",7,2250.172619
+"Potatoes (Irish, Red)",8,2261.666667
+"Potatoes (Irish, Red)",9,2537.898889
+"Potatoes (Irish, Red)",10,2129.3
+"Potatoes (Irish, Red)",11,2172.2825
+"Potatoes (Irish, Red)",12,2384.666667
+"Potatoes (Irish, White)",1,2810.122222
+"Potatoes (Irish, White)",2,2317.521333
+"Potatoes (Irish, White)",3,3056.596607
+"Potatoes (Irish, White)",4,2813.567619
+"Potatoes (Irish, White)",5,2898.160521
+"Potatoes (Irish, White)",6,2322.473214
+"Potatoes (Irish, White)",7,2286.27381
+"Potatoes (Irish, White)",8,2142.586071
+"Potatoes (Irish, White)",9,2163.864583
+"Potatoes (Irish, White)",10,2511.006786
+"Potatoes (Irish, White)",11,2602.0925
+"Potatoes (Irish, White)",12,2755.889167
+Rice,1,120.7314464
+Rice,2,131.2516937
+Rice,3,134.5537917
+Rice,4,134.329599
+Rice,5,129.8832381
+Rice,6,118.5664216
+Rice,7,124.2407197
+Rice,8,110.2191974
+Rice,9,125.2899675
+Rice,10,121.50475
+Rice,11,126.7344732
+Rice,12,128.0217884
+Rice (Aromatic),1,6865.35
+Rice (Aromatic),2,7404.7165
+Rice (Aromatic),3,6810.916667
+Rice (Aromatic),4,7757.541875
+Rice (Aromatic),5,7520.535595
+Rice (Aromatic),6,6944.633333
+Rice (Aromatic),7,7371.34127
+Rice (Aromatic),8,7395.535595
+Rice (Aromatic),9,7410.305333
+Rice (Aromatic),10,7574.416667
+Rice (Aromatic),11,7573.986667
+Rice (Aromatic),12,7854.278889
+"Rice (Imported, Pakistan)",2,4850
+"Rice (Imported, Pakistan)",3,5080
+"Rice (Imported, Pakistan)",4,4718.4
+"Rice (Imported, Pakistan)",6,5909.666667
+Salt,1,10.47771825
+Salt,2,10.6484246
+Salt,3,10.82071875
+Salt,4,10.62166667
+Salt,5,11.4497037
+Salt,6,10.87345455
+Salt,7,11.7326633
+Salt,8,10.59861111
+Salt,9,10.78944444
+Salt,10,10.52435185
+Salt,11,10.65319444
+Salt,12,10.39875
+Sorghum,1,2480.52845
+Sorghum,2,2695.373313
+Sorghum,3,2676.693636
+Sorghum,4,2815.46798
+Sorghum,5,2877.485078
+Sorghum,6,2925.732964
+Sorghum,7,3000.416927
+Sorghum,8,3082.797443
+Sorghum,9,3161.820479
+Sorghum,10,2957.526742
+Sorghum,11,2956.360451
+Sorghum,12,2852.473088
+Sorghum (Red),1,5068.25
+Sorghum (Red),2,4193.2
+Sorghum (Red),3,5344
+Sorghum (Red),4,4866.428571
+Sorghum (Red),5,4017.4
+Sorghum (Red),6,4627.8
+Sorghum (Red),7,4375.8
+Sorghum (Red),9,4785
+Sorghum (Red),10,5353.5
+Sorghum (Red),11,4667.34375
+Sorghum (White),1,6134.465
+Sorghum (White),2,5587.05
+Sorghum (White),3,5300.223214
+Sorghum (White),4,5200.333333
+Sorghum (White),5,5788.5
+Sorghum (White),6,6181.05
+Sorghum (White),7,6332.694444
+Sorghum (White),8,5598
+Sorghum (White),9,6731.25
+Sorghum (White),10,6480
+Sorghum (White),11,5615
+Sorghum (White),12,6269.166667
+Spinach,1,21.33333333
+Spinach,3,26.2
+Spinach,5,26.125
+Spinach,6,37.16666667
+Spinach,7,34
+Spinach,8,33.25
+Sugar,1,141.5921236
+Sugar,2,145.3146581
+Sugar,3,149.7015657
+Sugar,4,137.7221296
+Sugar,5,160.1167839
+Sugar,6,154.1360714
+Sugar,7,153.6082222
+Sugar,8,116.0423333
+Sugar,9,123.75
+Sugar,10,143.82125
+Sugar,11,149.3660272
+Sugar,12,155.3025487
+Tomatoes,1,3781.732571
+Tomatoes,2,4696.033982
+Tomatoes,3,4042.455893
+Tomatoes,4,3827.907833
+Tomatoes,5,4068.344345
+Tomatoes,6,4135.767857
+Tomatoes,7,3949.776944
+Tomatoes,8,3341.108214
+Tomatoes,9,3307.605313
+Tomatoes,10,3625.947063
+Tomatoes,11,3129.937857
+Tomatoes,12,4061.064167
+Wheat Flour,1,88.50997619
+Wheat Flour,2,92.52572619
+Wheat Flour,3,93.94922059
+Wheat Flour,4,93.624375
+Wheat Flour,5,94.09297436
+Wheat Flour,6,91.42063492
+Wheat Flour,7,91.22105628
+Wheat Flour,8,82.7582381
+Wheat Flour,9,78.47600694
+Wheat Flour,10,90.00986111
+Wheat Flour,11,100.5483333
+Wheat Flour,12,94.45036797
